@@ -8,7 +8,7 @@ A reduced mathematical (RM) model for prediction of probability of occurence of 
 
 #### Files and database
 '**_database**': directory with database files that contain feature values and probability of occurence of FCC and BCC phases as predicted by the neural network (NN) model. It contains following database files:
--- '**df-hea-fit.xlsx**': dataset used for fitting the RM Model; alloys with 5, 6, and 7 elements; absolute features values
+- - '**df-hea-fit.xlsx**': dataset used for fitting the RM Model; alloys with 5, 6, and 7 elements; absolute features values
 - '**df-hea-fit-normFeats.xlsx**': dataset used for fitting the RM Model; alloys with 5, 6, and 7 elements; normalized features values
 - '**df-hea-val.xlsx**': dataset used for validating the RM Model; alloys with 8 and 9 elements; absolute features values
 - '**df-hea-val-normFeats.xlsx**': dataset used for validating the RM Model; alloys with 8 and 9 elements; normalized features values
