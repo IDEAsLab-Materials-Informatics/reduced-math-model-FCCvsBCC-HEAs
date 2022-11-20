@@ -16,4 +16,4 @@ A reduced mathematical (RM) model for prediction of probability of occurence of 
 
 '**rm-mod-fcc.ipynb**' : jupyter notebook containing development of RM model for FCC phase
 
-'**rm-mod-bcc.ipynb**' : jupyter notebook containing development of RM model for FCC phase
+'**rm-mod-bcc.ipynb**' : jupyter notebook containing development of RM model for BCC phase
